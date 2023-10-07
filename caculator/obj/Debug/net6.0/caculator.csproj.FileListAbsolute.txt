@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\ibrahim C#\caculator\bin\Debug\net6.0\caculator.exe
+C:\Users\HP\Desktop\ibrahim C#\caculator\bin\Debug\net6.0\caculator.deps.json
+C:\Users\HP\Desktop\ibrahim C#\caculator\bin\Debug\net6.0\caculator.runtimeconfig.json
+C:\Users\HP\Desktop\ibrahim C#\caculator\bin\Debug\net6.0\caculator.dll
+C:\Users\HP\Desktop\ibrahim C#\caculator\bin\Debug\net6.0\caculator.pdb
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\caculator.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\caculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\caculator.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\caculator.AssemblyInfo.cs
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\caculator.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\caculator.dll
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\refint\caculator.dll
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\caculator.pdb
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\caculator.genruntimeconfig.cache
+C:\Users\HP\Desktop\ibrahim C#\caculator\obj\Debug\net6.0\ref\caculator.dll
